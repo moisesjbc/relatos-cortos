@@ -84,4 +84,4 @@ El chico se sintió optimista. Deseó tener pronto la oportunidad de ser un mal 
 
 
 
-* Dedicado desde un sano respeto a todas las chicas de las paradas *
+-- Dedicado desde un sano respeto a todas las chicas de las paradas.
