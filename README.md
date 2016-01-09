@@ -5,7 +5,7 @@ Conjunto con los relatos cortos que escribo cuando me viene la inspiración.
 **Notas**:
 
 - El año se refiere al año en el que escribí el original.
-- Dentro de un mismo apartado temporal (pe. "2015", los relatos NO están ordenados por fecha de publicación).
+- Dentro de un mismo apartado temporal (pe. "2015"), los relatos NO están ordenados por fecha de publicación.
 
 
 ## 2016
