@@ -7,6 +7,11 @@ Conjunto con los relatos cortos que escribo cuando me viene la inspiración.
 - El año se refiere al año en el que escribí el original.
 - Dentro de un mismo apartado temporal (pe. "2015"), los relatos NO están ordenados por fecha de publicación.
 
+## Microrelatos
+
+Hace poco (escrito a fecha de 26 de Enero del 2016) leí un [artículo sobre los microrrelatos](http://www.jotdown.es/2015/10/vivieron-y-murieron-en-seis-palabras/) y decidí probar suerte :-)
+
+- [Leer microrrelatos](microrrelatos.md)
 
 ## 2016
 
