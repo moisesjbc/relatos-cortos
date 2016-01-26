@@ -9,9 +9,9 @@ Conjunto con los relatos cortos que escribo cuando me viene la inspiración.
 
 ## Microrelatos
 
-Hace poco (escrito a fecha de 26 de Enero del 2016) leí un [artículo sobre los microrrelatos](http://www.jotdown.es/2015/10/vivieron-y-murieron-en-seis-palabras/) y decidí probar suerte :-)
+Hace poco (escrito a fecha de 26 de Enero del 2016) leí un [artículo sobre los microrelatos](http://www.jotdown.es/2015/10/vivieron-y-murieron-en-seis-palabras/) y decidí probar suerte :-)
 
-- [Leer microrrelatos](microrrelatos.md)
+- [Leer microrelatos](microrelatos.md)
 
 ## 2016
 
