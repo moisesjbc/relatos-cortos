@@ -33,7 +33,7 @@ El proceso de un chico que vuelve a escribir.
 
 ### El elemental
 
-Relato escrito en 2015 para el concurso ["Escribe un relato corto para un videojuego indie"](http://www.gametopia.es/learning/concurso)
+La misión de un individuo que puede transformarse en los elementos. Escrito para el concurso ["Escribe un relato corto para un videojuego indie"](http://www.gametopia.es/learning/concurso)
 
 - [Leer "El elemental"](2015/el_elemental.md)
 
