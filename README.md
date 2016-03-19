@@ -38,6 +38,12 @@ Relato escrito en 2015 para el concurso ["Escribe un relato corto para un videoj
 - [Leer "El elemental"](2015/el_elemental.md)
 
 
+### Fragmentos de vida
+
+Relato sin terminar sobre un futuro distópico donde la lectura se ha vuelto sumamente peligrosa. Escrito para el concurso anterior (["Escribe un relato corto para un videojuego indie"](http://www.gametopia.es/learning/concurso)). Finalmente lo descarté y envié "El elemental".
+
+- [Leer "Fragmentos de vida"](2015/fragmentos_de_vida.md)
+
 ## 2013
 
 ### Patentes y ruedas
