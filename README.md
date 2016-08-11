@@ -15,6 +15,12 @@ Hace poco (escrito a fecha de 26 de Enero del 2016) leí un [artículo sobre los
 
 ## 2016
 
+### De visita
+
+Una dedicatoria a una chica de mi pasado.
+
+- [Leer "De visita"](2016/de_visita.md)
+
 ### La chica de la parada
 
 Diálogo entre dos buenos conocidos motivado por una chica en una parada de guaguas (autobuses).
