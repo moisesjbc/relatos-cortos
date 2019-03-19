@@ -13,6 +13,12 @@ Hace poco (escrito a fecha de 26 de Enero del 2016) leí un [artículo sobre los
 
 - [Leer microrelatos](microrelatos.md)
 
+## 2019
+
+Los malos pensamientos pueden atacar en cualquier momento.
+
+- [Leer "Nervo"](2019/nervo.md)
+
 ## 2016
 
 ### De visita
