@@ -114,6 +114,3 @@ Reunidos bajo el umbral de la puerta, el anciano le tendió la mano al ángel y 
 - Vuelve cuando quieras – Dijo ella.
 
 El ángel sonrió y emprendió el vuelo. Durante su descenso a la Tierra sólo lo había acompañado  la soledad y un grito de dolor. Durante la vuelta, lo acompañaba el recuerdo de una segunda familia. Le vino a la mente la cara de ella, y le sorprendió lo rápido que podía llegar alguien a marcar a quienes lo conocían. Recordó las palabras del anciano: “Las marcas nunca se borran”.
-
-
--- ~~Dedicado a Naiara, una escultora excepcional.~~
