@@ -1,3 +1,5 @@
+# Fragmentos de vida
+
 Apenas recuerdo cuándo la palabra escrita se volvió, literalmente, mortal. Un día, y sin previo aviso, se instauró una nueva regla en el mundo: *todo lo que leas se volverá realidad*. Qué bien, ¿no?. Podrías escribir "soy rico" y en cuanto lo leyeras no volverías a preocuparte por tu cuenta corriente. Dos palabras: "soy inmortal" y puedes equipararte a un dios. Perfecto, ¿verdad?
 
 El pequeño inconveniente de esta suerte de utopía, es que me he olvidado de mencionar la segunda parte de la regla: "todo lo que leas se volverá realidad... *durante 10 segundos*. Vaya fiasco.
