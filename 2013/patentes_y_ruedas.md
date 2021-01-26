@@ -34,7 +34,7 @@ La empresa P1 se afana por llegar a los juzgados a imponer una denuncia. En medi
 
 - Cierto, nuestras ruedas son negras, pero el diámetro es de 55 cm, mientras que las ruedas patentadas por el demandante son de 50 cm.
 
-Fallo a favor de P4. Al equipo de P1 sólo le falta alas para llegar más rápido de lo que corre a la oficina de patentes. Todas las ruedas, de todos los colores (menos el azul) y de todos los diámetros (menos 51 cm), quedan registradas a su nombre.
+Fallo a favor de P4. Al equipo de P1 sólo le falta alas para llegar más rápido de lo que corre a la oficina de patentes. Todas las ruedas, de todos los colores (menos el azul) y de todos los diámetros (menos 55 cm), quedan registradas a su nombre.
 
 Una quinta empresa nace y comienza a desarrollar ruedas negras de 50 cm de diámetro. P1, sintiéndose como si hubiera ganado la lotería, lanza la pertinente denuncia... y falla. Las ruedas patentadas por P5 tienen puntitos amarillos microscópicos repartidos por toda su superficie. Otra empresa, P6, desarrolla una rueda idéntica, pero no la llama “rueda”, sino “ruedex”. También gana.
 
@@ -46,7 +46,7 @@ Y al principio, así es. Consiguen recuperar parte de la inversión, ya que los 
 
 En cuanto al resto de empresas, cada una tiene que lidiar con sus propios problemas: las ruedas de P3 tienen poco agarre, por lo que optimizarán el dibujo de las gomas. Inmediatamente son denunciados por P7, la cual, surgida de la nada, ya había patentado unas ruedas con los mismos dibujos. La empresa P4 descubre que su problema radica en que sus ruedas son muy grandes, por lo que reducen el tamaño, y cambian el color y dibujo para evitar problemas. El esfuerzo es en vano, el producto resultante también está patentado.
 
-El mercado no tarda en inundarse de ruedas defectuosas de todos los colores, tamaños, formas y nombres posibles. Las empresas implicadas están demasiado ocupadas denunciándose entre sí como para mejorar sus productos. Las universidades intentan estudiar los problemas encontrados y darles solución, pero sus estudiantes también tienen prohibido el acceso a los diseños de las diferentes ruedas, lo que no pueden hacer mucho. Los clientes, cansados de esperar por una calidad mínima en los productos que adquieren, vuelven a confiar en sus piernas y en sus caballos para desplazarse de un lado a otro.
+El mercado no tarda en inundarse de ruedas defectuosas de todos los colores, tamaños, formas y nombres posibles. Las empresas implicadas están demasiado ocupadas denunciándose entre sí como para mejorar sus productos. Las universidades intentan estudiar los problemas encontrados y darles solución, pero sus estudiantes también tienen prohibido el acceso a los diseños de las diferentes ruedas, por lo que no pueden hacer mucho. Los clientes, cansados de esperar por una calidad mínima en los productos que adquieren, vuelven a confiar en sus piernas y en sus caballos para desplazarse de un lado a otro.
 
 ***
 
@@ -64,6 +64,10 @@ De repente se produce una segunda revolución: una empresa innovadora desarrolla
 
 ***
 
-Han pasado diez años. La sociedad L ha alcanzado un nivel de progreso tal que ahora son capaces de abandonar las fronteras de su planeta y lanzarse a la conquista del espacio. En una de sus múltiples incursiones descubren el planeta P, donde encuentran una especie sorprendentemente parecida a ellos. Sin embargo, la sociedad P vive anclada en el pasado, con la mayor parte de sus gentes caminando de un lado a otro hasta la extenuación. Los pocos habitantes adinerados hacen cola, con los ojos vendados, frente a montañas con millones de ruedas, de todos los colores y formas, que abarcan hasta donde la vista alcanza. Compran ruedas de pésima calidad, pero antes tienen que firmar un contrato (a ciegas). Un explorador del planeta L se hace con una copia y la lee frente a sus compañeros. Los compradores deben pagar una cuota anual, y no pueden prestar las ruedas ni usarlas sin supervisión. Además, las ruedas tampoco pueden ser estudiadas, tocadas ni observadas. Los astronautas de la sociedad L se miran entre sí:
+Han pasado diez años. La sociedad L ha alcanzado un nivel de progreso tal que ahora es capaz de abandonar las fronteras de su planeta y lanzarse a la conquista del espacio.
+
+En una de sus múltiples incursiones descubren el planeta P, donde encuentran una especie sorprendentemente parecida a ellos. Sin embargo, la sociedad P vive anclada en el pasado, con la mayor parte de sus gentes caminando de un lado a otro hasta la extenuación. Los pocos habitantes adinerados hacen cola, con los ojos vendados, frente a montañas con millones de ruedas, de todos los colores y formas, que abarcan hasta donde la vista alcanza. Compran ruedas de pésima calidad, pero antes tienen que firmar un contrato (a ciegas).
+
+Un explorador del planeta L se hace con una copia y la lee frente a sus compañeros. Los compradores deben pagar una cuota anual, y no pueden prestar las ruedas ni usarlas sin supervisión. Además, las ruedas tampoco pueden ser estudiadas, tocadas ni observadas. Los astronautas de la sociedad L se miran entre sí.
 
 - Vámonos de aquí.
