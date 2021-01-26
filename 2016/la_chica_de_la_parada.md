@@ -7,7 +7,7 @@
 - ¿Y bien? - preguntó en voz baja.
 - ¿Y bien qué?
 - Vamos, no empieces otra vez con este juego. Te he visto mirándola.
-- No voy a... - se mordió el labio - ...mira, no es tan sencillo.
+- No voy a... - se mordió el labio - Mira, no es tan sencillo.
 - Ya, nunca lo es, ¿verdad?
 
 Se esperaba la puya completamente. No era la primera vez que tenían esa conversación.
@@ -32,7 +32,7 @@ Su interlocutor lo miró fijamente. Sus ojos decían "conoces las respuesta".
 - Poco voy a conseguir si no lo acompaño con algo más.
 - Poco más te puedo decir.
 - Nada más, querrás decir - soltó aire - Mira, esto es inútil y...
-- Tienes razón al recordar que nuestros conocimientos son... equivalentes, si me permites la licencia. Pero no es la primera vez, ni será la última, que en las charlas de "tú a tú" (¿o debería decir  "de yo a yo"?) sirgue la sabiduría.
+- Tienes razón al recordar que nuestros conocimientos son... equivalentes, si me permites la licencia. Pero no es la primera vez, ni será la última, que en las charlas de "tú a tú" (¿o debería decir "de yo a yo"?) surge la sabiduría.
 
 Calló. No podía rebatirlo.
 
@@ -47,9 +47,8 @@ Calló. No podía rebatirlo.
 - ¡Guay!
 - ¡Calla! Como te estoy intentado decir, y muy bien lo sabes, la segunda excusa es que no quiero quedar como el típico pesado.
 - ¿Pesado por un simple acercamiento? - tras unos segundos ambos recordaron lo mismo, pero *él* se atribuyó el honor de mencionarlo - ¡Cuánto daño ha hecho el vídeo de la chica caminando por Nueva York!
-- Eso no... - y tras sentir tal desconfianza de su interlocutor que dolía, confesó - ¡Está bien! ¡Mentiría si dijera que no me afecta! Pero esto viene desde antes. Con las faltas de respeto que
-he presenciado, y con lo que he hablado con algunas amigas... Mira, entiendo que muchas chicas vayan con el escudo puesto. No quiero hacer oposiciones para entrar en la lista de acosadores.
-- No vas a entrar en esa lista por unas palabras amables y un interés sincero que sé que tenemos. Escucha, una cosa es respetar, pero todo en exceso es malo. ¡Incluso los excedentes de respeto son malos si se donan a quién no los merece!. O a quien los merece; no olvidemos que usamos el término "exceso" por algo. - tras unos segundos añadió - Nunca dejes que el respeto muera, pero recuerda que a partir de un punto no es respeto, es cobardía. Y más en tu caso, que te conozco.
+- Eso no... - y tras sentir tal desconfianza de su interlocutor que dolía, confesó - ¡Está bien! ¡Mentiría si dijera que no me afecta! Pero esto viene desde antes. Con las faltas de respeto que he presenciado, y con lo que he hablado con algunas amigas... Mira, entiendo que muchas chicas vayan con el escudo puesto. No quiero hacer oposiciones para entrar en la lista de acosadores.
+- No vas a entrar en esa lista por unas palabras amables y un interés sincero que sé que tenemos. Escucha, una cosa es respetar, pero todo en exceso es malo. ¡Incluso los excedentes de respeto son malos si se donan a quién no los merece!. O a quien los merece; no olvidemos que usamos el término "exceso" por algo - tras unos segundos añadió -: Nunca dejes que el respeto muera, pero recuerda que a partir de un punto no es respeto, es cobardía. Y más en tu caso, que te conozco.
 
 Calló. Tampoco podía rebatirlo. Tras unos instantes, respondió.
 
@@ -59,7 +58,7 @@ Calló. Tampoco podía rebatirlo. Tras unos instantes, respondió.
 - ¿Me estás vacilando? Como tercera excusa es pésima. Literalmente nunca he visto una chica que no dijeras que parecía ocupada, incluso aunque estuviera mirando fijamente al infinito.
 - Yo estoy mirando al infinito, y podría decirse que estoy "ocupado".
 - Te pegaría un buen puñetazo. Lo juro.
-- Lo sé - rió de una manera que intentaba ser conciliadora - ¡Oh!, ¡cómo de costumbre!.
+- Lo sé - rió de una manera que intentaba ser conciliadora - ¡Oh!, ¡cómo de costumbre!
 
 Como de costumbre, con el incremento de sabiduría y/o motivación, llegaba la desaparición de la chica. En esta ocasión, y con esta chica en concreto, se trató de un coche conducido por una figura masculina. La chica se subió al coche que debía llevarla a su destino y éste partió, llevándose consigo el reflejo de una silueta solitaria que, en la parada, miraba inmutable hacia el horizonte.
 
