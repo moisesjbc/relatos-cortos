@@ -4,17 +4,17 @@ La criatura alada se dejó mecer por el viento, mientras observaba la basta exte
 
 Había llegado allí tras años de escuchar hablar sobre un pequeño planeta llamado Tierra, situado en el otro extremo del universo. Al principio le embargó el miedo, pues las primeras impresiones retrataban a la Tierra como un lugar que era mejor evitar a toda costa. La mayoría de sus compañeros hablaban de una civilización cruel y despiadada, que se destruía a si misma y al hogar que los había visto nacer y los había acogido. Sin embargo, no todos los comentarios eran negativos; otros hablaban de personas excepcionales, únicas, por las que sin duda valía la pena cruzar todo el universo. Nuestro protagonista escuchaba estas últimas historias hasta que las palabras se ahogaban y dejaban paso a las lágrimas. Al final, la curiosidad venció, y el visitante abandonó su hogar natal, viajó sorteando todos los peligros del espacio, y acabó llegando a su destino.
 
-Se encontraba surcando los cielos, mientras el viento acariciaba su pelo, cuando se dispuso a comenzar el descenso. A medida que se acercaba, grandes construcciones de todas las formas y colores, comenzaron a nacer de la tierra y a acaparar todo cuanto veía. Continuó bajando y no tardó en ver a los grandes seres bípedos de los que tanto había oído hablar. Guardaban un gran parecido a él, salvo por la falta de alas. Los seres corrían de un lado a otro y se gritaban cosas unos a otros. Entonces escuchó el ruido de los disparos y lo comprendió: estaba presenciando una guerra.
+Se encontraba surcando los cielos, mientras el viento acariciaba su pelo, cuando se dispuso a comenzar el descenso. A medida que se acercaba, grandes construcciones de todas las formas y colores comenzaron a nacer de la tierra y a acaparar todo cuanto veía. Continuó bajando y no tardó en ver a los grandes seres bípedos de los que tanto había oído hablar. Guardaban un gran parecido a él, salvo por la falta de alas. Los seres corrían de un lado a otro y se gritaban cosas unos a otros. Entonces escuchó el ruido de los disparos y lo comprendió: estaba presenciando una guerra.
 
 Se asustó e intentó alejarse de allí, pero alguien en tierra fue más rápido y lo atacó. Múltiples proyectiles alcanzaron su ala izquierda, destrozándola completamente. Cayó a gran velocidad, con la única compañía de su voz lanzando un grito de miedo y dolor. A medida que el suelo corría a su encuentro, la criatura intentó planear a duras penas, tratando de alejarse de aquel lugar.
 
-- “Si caigo ahí, moriré” - pensó, mientras resistía el inmenso dolor que sentía.
+- “Si caigo ahí, moriré”, pensó, mientras resistía el inmenso dolor que sentía.
 
 Con un último esfuerzo, se dirigió hacia las montañas situadas al lado de la zona en guerra. Sobrevoló la primera montaña, y luego una segunda. La tercera, orgullosa, se alzó para evitar que la criatura la pasara por encima. Ésta no pudo hacer nada, y el golpe contra el suelo la dejó al borde de la inconsciencia. Lo último que vio, antes de ceder a la oscuridad, fueron unas botas acercándose lentamente.
 
 ---
 
-Se despertó tendido en una cama. Miró alrededor. Se encontraba en una cabaña de madera, con una única ventana a su izquierda. La vidriera le obsequiaba con la visión de un paisaje montañoso, tranquilo, sin signos de guerra más que en la lejanía. Una figura anciana, con la cabeza cubierta por una capucha, se encontraba sentada frente a la cama. El desconocido lo miraba, divertido.
+Se despertó tendido en una cama y miró alrededor. Se encontraba en una cabaña de madera, con una única ventana a su izquierda. La vidriera le obsequiaba con la visión de un paisaje montañoso, tranquilo, sin signos de guerra más que en la lejanía. Una figura anciana, con la cabeza cubierta por una capucha, se encontraba sentada frente a la cama. El desconocido lo miraba, divertido.
 
 - ¡Menuda caída!
 
@@ -24,7 +24,7 @@ La criatura lo miró extrañado. Había aprendido y perfeccionado algunos de los
 
 El anciano rió, pero su gesto rápidamente se tornó serio.
 
-- Escucha, no tardarán en venir aquí – esperó a que el visitante asintiera, símbolo de que lo había entendido - . Tenemos que hacer algo.
+- Escucha, no tardarán en venir aquí – esperó a que el visitante asintiera, símbolo de que lo había entendido -. Tenemos que hacer algo.
 - Sí, necesito un... ¿médico?.
 - ¿Un médico? - el anciano lo miró, extrañado.
 
@@ -35,7 +35,7 @@ La criatura se sonrojó. ¿Se habría equivocado de palabra? Intentó probar con
 Su interlocutor se rió.
 
 - ¡Ja ja ja! No me refería a eso. Lo que necesitas es un escultor.
-- ¿Un escultor? - el visitante se extrañó, al recordar lo que eso significaba.
+- ¿Un escultor? - El visitante se extrañó, al recordar lo que eso significaba.
 
 El anciano hizo caso omiso de la pregunta.
 
@@ -51,7 +51,7 @@ La criatura dudó unos instantes, pero en su estado, no le quedaba más opción 
 - Vámonos.
 
 La criatura lo siguió y emprendieron un viaje que duró días. Durante el trayecto, su guía le explicó por qué buscaban a un escultor.
-- “Médico”, “Doctor”, “Veterinario”, “Soldado”, “Ingeniero”, son solo etiquetas. - comenzó – en el fondo, en la esencia, todos somos escultores. Y me aventuraría a decir que en tu planeta también es así.
+- “Médico”, “Doctor”, “Veterinario”, “Soldado”, “Ingeniero”, son solo etiquetas. - Comenzó – en el fondo, en la esencia, todos somos escultores. Y me aventuraría a decir que en tu planeta también es así.
 
 La criatura estuvo a punto de decir algo, pero calló, y dejó que el aciano prosiguiera:
 
@@ -64,19 +64,19 @@ La criatura asintió y esperó a que el anciano continuara, pero éste guardó s
 La criatura sonrió:
 
 - Sí. Desde que nacemos, crecemos bajo la influencia de nuestras familias. Más tarde se unen los amigos y los enemigos, los conocidos y los desconocidos. Todos influyen. Todos, desde quienes pasan 5 segundos con nosotros a quienes nos acompañan toda la vida, van dejando su marca en nosotros y nosotros en ellos. Somos escultores – miró al anciano -, y a la vez somos esculpidos.
-- ¡Exacto! - sonrió su acompañante.
+- ¡Exacto! - Sonrió su acompañante.
 - Pero entonces, si todo el mundo tiene ese poder... ¿no podrías curarme tú?
 - ¿Curarte? Tu ala ya está curada.
 - ¿Qué?
 
 La criatura se miró el ala. Estaba llena de cicatrices, pero parecía estar en buen estado. Se levantó y miró al anciano durante unos segundos; entonces, agitó las alas. Tras elevarse dos metros sobre el suelo, volvió a mirar a su compañero.
 
-- No lo entiendo – reconoció, mientras volvía a posarse - si ya estoy curado, ¿por qué necesito un escultor?
+- No lo entiendo – reconoció, mientras volvía a posarse -. Si ya estoy curado, ¿por qué necesito un escultor?
 - Porque mi especie te ha dejado una marca muy fea, y quiero compensártelo.
 
 La criatura recordó como una ráfaga de disparos fue su comité de bienvenida.
 
-- No es necesario, esa marca está borrada. – Sonrió – Gracias a ti.
+- No es necesario, esa marca está borrada – Sonrió –. Gracias a ti.
 - No –  el anciano negó con la cabeza – las marcas nunca se borran, para bien o para mal. Antes de que te vayas quiero dejarte una buena marca que contrarreste a la mala. Y en tan poco tiempo, sólo ella puede hacerlo.
 - ¿Ella?
 - Una escultora como pocas existen – el anciano se quitó la capucha, dejando ver un rostro de mármol cálido, alegre –, capaz de atravesar cualquier coraza. Vive en una aldea, a dos días de aquí.
@@ -101,16 +101,16 @@ La hora pasó con la fugacidad de un segundo. Tanto fue así, que la criatura se
 
 La criatura, a pesar de la sorpresa, se limitó a cerrar los ojos y a moverse en su asiento, al son de la música. Cuando de repente escuchó a la mujer reírse, se detuvo y abrió los ojos.
 
-- ¿Qué ocurre? - Preguntó.
-- Nada – sonrió ella –, que los ángeles también bailan.
+- ¿Qué ocurre? - preguntó.
+- Nada – Sonrió ella –, que los ángeles también bailan.
 - Tristemente, es hora de despedirnos - Anunció el anciano, cortando cualquier réplica por parte del ángel – Los que te atacaron se acercan mientras hablamos.
 
 La criatura había olvidado el desafortunado incidente ocurrido a su llegada. Tras una hora conociendo a aquella bella persona, el miedo y sus problemas parecían mucho más lejanos. Se levantó de su asiento y se dirigió a la salida.
 
 Reunidos bajo el umbral de la puerta, el anciano le tendió la mano al ángel y ambos las entrechocaron mientras se sonreían. Cuando le fue a tender la mano a la mujer, ésta lo abrazó. Tanto cariño, de una persona tan especial, lo dejó sin habla.
 
-- A... adiós – Dijo el ángel.
-- Hasta luego, amigo – Dijo el anciano.
-- Vuelve cuando quieras – Dijo ella.
+- A... adiós – dijo el ángel.
+- Hasta luego, amigo – dijo el anciano.
+- Vuelve cuando quieras – dijo ella.
 
-El ángel sonrió y emprendió el vuelo. Durante su descenso a la Tierra sólo lo había acompañado  la soledad y un grito de dolor. Durante la vuelta, lo acompañaba el recuerdo de una segunda familia. Le vino a la mente la cara de ella, y le sorprendió lo rápido que podía llegar alguien a marcar a quienes lo conocían. Recordó las palabras del anciano: “Las marcas nunca se borran”.
+El ángel sonrió y emprendió el vuelo. Durante su descenso a la Tierra sólo lo había acompañado la soledad y un grito de dolor. Durante la vuelta, lo acompañaba el recuerdo de una segunda familia. Le vino a la mente la cara de ella, y le sorprendió lo rápido que podía llegar alguien a marcar a quienes lo conocían. Recordó las palabras del anciano: “Las marcas nunca se borran”.
